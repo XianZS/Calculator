@@ -1,0 +1,12 @@
+D:\program\C_cs\Code\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\program\C_cs\Code\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\program\C_cs\Code\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.MyCalculator.resources
+D:\program\C_cs\Code\Calculator\Calculator\bin\Debug\NCalc.dll
+D:\program\C_cs\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\program\\C_cs\\Code\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9164D1A-2DF5-481A-9F88-8895A55C04A8}|Calculator\\Calculator.csproj|d:\\program\\c_cs\\code\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9164D1A-2DF5-481A-9F88-8895A55C04A8}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|d:\\program\\c_cs\\code\\calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\globalfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\globalfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\main.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\main.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:11:35.164Z",
+              "WhenOpened": "2024-11-10T12:54:01.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalFunc.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\GlobalFunc.cs",
+              "RelativeDocumentMoniker": "Calculator\\GlobalFunc.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\GlobalFunc.cs",
+              "RelativeToolTip": "Calculator\\GlobalFunc.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:06:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCalculator.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\MyCalculator.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
+              "RelativeToolTip": "Calculator\\MyCalculator.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:32:05.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCalculator.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\MyCalculator.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Calculator\\MyCalculator.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:23:44.214Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.md",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\main.md",
+              "RelativeDocumentMoniker": "Calculator\\main.md",
+              "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\main.md",
+              "RelativeToolTip": "Calculator\\main.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-10T13:17:04.644Z"
             }
           ]
         }
