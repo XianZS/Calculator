@@ -164,7 +164,8 @@ namespace Calculator
 
         private void button5_Click(object sender, EventArgs e)
         {
-            label2.Text += GlobalFunc.Instance.HistoryString;
+            label2.Text += "[" + Convert.ToString(GlobalFunc.Instance.Index) + "]:" +GlobalFunc.Instance.HistoryString;
+            GlobalFunc.Instance.Index += 1;
             textBox1.Text = "";
             textBox2.Text = "";
         }
@@ -260,12 +261,26 @@ namespace Calculator
 
         private void button4_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
+            try
+            {
+                textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
+            }
+            catch (Exception E)
+            {
+                MessageBox.Show(E.Message);
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text.Substring(1, textBox1.Text.Length - 1);
+            try
+            {
+                textBox1.Text = textBox1.Text.Substring(1, textBox1.Text.Length - 1);
+            }
+            catch (Exception E)
+            {
+                MessageBox.Show(E.Message);
+            }
         }
 
         private void button14_Click(object sender, EventArgs e)

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\program\\C_cs\\Code\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|d:\\program\\c_cs\\code\\calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|d:\\program\\c_cs\\code\\calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC42770-9C4F-4E1D-A642-3A4365721ABA}|Calculator\\Calculator.csproj|D:\\program\\C_cs\\Code\\Calculator\\calculator\\globalfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -53,26 +53,27 @@
               "RelativeDocumentMoniker": "Calculator\\GlobalFunc.cs",
               "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\GlobalFunc.cs",
               "RelativeToolTip": "Calculator\\GlobalFunc.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:06:55.478Z"
+              "WhenOpened": "2024-11-10T14:06:55.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyCalculator.cs",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
               "RelativeDocumentMoniker": "Calculator\\MyCalculator.cs",
               "ToolTip": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
               "RelativeToolTip": "Calculator\\MyCalculator.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAEBAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAvwBMBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T13:32:05.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyCalculator.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\Calculator\\Calculator\\MyCalculator.cs",
               "RelativeDocumentMoniker": "Calculator\\MyCalculator.cs",

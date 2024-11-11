@@ -21,5 +21,6 @@ namespace Calculator
         }
         public string NowString = "";
         public string HistoryString = "";
+        public int Index = 1;
     }
 }
